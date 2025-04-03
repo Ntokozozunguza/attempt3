@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/technology/</link>
+    <description>Recent content in Technology on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Apr 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Rise of 5G and its Impact on Everyday Life</title>
+      <link>http://localhost:1313/articles/tech3/</link>
+      <pubDate>Thu, 03 Apr 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/tech3/</guid>
+      <description>&lt;p&gt;The fifth generation of mobile networks, &lt;strong&gt;5G&lt;/strong&gt;, is here, and it promises to revolutionize how we connect, communicate, and interact with technology. From faster internet speeds to more reliable connections, here&amp;rsquo;s how 5G will change everyday life.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-5g&#34;&gt;What is 5G?&lt;/h2&gt;&#xA;&lt;p&gt;5G is the next generation of mobile network technology, designed to offer faster data speeds, lower latency, and greater connectivity than ever before. With 5G, users can experience download speeds up to 100 times faster than 4G, making everything from streaming to gaming smoother and more efficient.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Rise of Electric Vehicles</title>
+      <link>http://localhost:1313/articles/tech2/</link>
+      <pubDate>Sat, 29 Mar 2025 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/tech2/</guid>
+      <description>&lt;p&gt;Electric Vehicles (EVs) are becoming the future of transportation. With concerns about climate change and fossil fuels, many automakers are shifting to sustainable energy.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-evs-are-taking-over&#34;&gt;Why EVs Are Taking Over?&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>The Future of AI in Everyday Life</title>
+      <link>http://localhost:1313/articles/tech1/</link>
+      <pubDate>Sat, 29 Mar 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/tech1/</guid>
+      <description>&lt;p&gt;Artificial Intelligence is evolving rapidly, transforming how we work, live, and interact. From smart assistants to self-driving cars, AI is shaping the future.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-ai-is-changing-the-world&#34;&gt;How AI is Changing the World?&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

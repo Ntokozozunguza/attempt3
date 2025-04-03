@@ -1,0 +1,24 @@
+﻿{{ define "main" }}
+<div class="about-container">
+    <h1 class="about-title">About Us</h1>
+    <p>Welcome to our website! 🚀 We bring you the latest in Health, Technology, and more.</p>
+</div>
+
+<!-- Sparkles -->
+<script>
+    function createSparkle() {
+        const sparkle = document.createElement("div");
+        sparkle.classList.add("sparkle");
+        document.body.appendChild(sparkle);
+        
+        const x = Math.random() * window.innerWidth;
+        const y = Math.random() * window.innerHeight;
+        sparkle.style.left = `${x}px`;
+        sparkle.style.top = `${y}px`;
+
+        setTimeout(() => sparkle.remove(), 1000);
+    }
+
+    setInterval(createSparkle, 200);
+</script>
+{{ end }}

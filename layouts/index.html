@@ -1,0 +1,18 @@
+﻿{{ define "main" }}
+    <div class="home-container">
+        <h1>Welcome to {{ .Site.Title }}</h1>
+         
+        <div class="posts-grid">
+            {{ range first 6 (where .Site.RegularPages "Section" "articles") }}
+                <div class="post-card">
+                    <a href="{{ .Permalink }}">
+                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                        <h2>{{ .Title }}</h2>
+                    </a>
+                    <p>{{ .Summary }}</p>
+                    <a href="{{ .Permalink }}" class="read-more">Read more...</a>
+                </div>
+            {{ end }}
+        </div>
+    </div>
+{{ end }}

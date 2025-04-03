@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <div class="category-page">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    {{ range .Pages }}
+      <div class="article-card">
+        <img src="{{ .Params.featured_image | default "/images/default.jpg" }}" 
+             alt="{{ .Title }}" class="article-image">
+        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+        <p class="summary">{{ .Summary }}</p>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}

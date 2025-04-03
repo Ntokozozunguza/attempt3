@@ -1,0 +1,10 @@
+﻿theme = "attempt2"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 2

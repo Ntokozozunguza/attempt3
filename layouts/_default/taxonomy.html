@@ -1,0 +1,11 @@
+﻿{{ define "main" }}
+    <div class="{{ if eq .Data.Plural "categories" }}category-page{{ else }}tag-page{{ end }}">
+        <h1>{{ .Title }}</h1>
+        {{ range .Pages }}
+            <div class="post">
+                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                <p>{{ .Summary }}</p>
+            </div>
+        {{ end }}
+    </div>
+{{ end }}

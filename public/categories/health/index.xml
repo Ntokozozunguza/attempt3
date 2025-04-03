@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/health/</link>
+    <description>Recent content in Health on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Apr 2025 09:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Role of Exercise in Mental Health</title>
+      <link>http://localhost:1313/articles/health2/</link>
+      <pubDate>Tue, 01 Apr 2025 09:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/health2/</guid>
+      <description>&lt;p&gt;Exercise is not only essential for physical health but plays a crucial role in mental wellbeing. Regular physical activity releases endorphins and reduces stress, anxiety, and depression. Here&amp;rsquo;s how staying active can improve your mood and mental health.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-science-behind-exercise-and-mental-health&#34;&gt;The Science Behind Exercise and Mental Health&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>The Importance of a Balanced Diet for a Healthy Life</title>
+      <link>http://localhost:1313/articles/health1/</link>
+      <pubDate>Sat, 29 Mar 2025 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/health1/</guid>
+      <description>&lt;h2 id=&#34;why-a-balanced-diet-matters&#34;&gt;Why a Balanced Diet Matters?&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

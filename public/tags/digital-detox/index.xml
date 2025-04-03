@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Detox on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/digital-detox/</link>
+    <description>Recent content in Digital Detox on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Apr 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/digital-detox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Digital Detox is Essential for Your Mental Health</title>
+      <link>http://localhost:1313/articles/lifestyle2/</link>
+      <pubDate>Wed, 02 Apr 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/lifestyle2/</guid>
+      <description>&lt;p&gt;In the modern world, we&amp;rsquo;re constantly connected to our devices, from smartphones to laptops. While technology has its benefits, excessive screen time can negatively impact mental health. Here&amp;rsquo;s why a digital detox is essential for your well-being.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-effects-of-excessive-screen-time&#34;&gt;The Effects of Excessive Screen Time&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

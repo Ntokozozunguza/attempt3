@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journaling on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/journaling/</link>
+    <description>Recent content in Journaling on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Apr 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/journaling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Art of Journaling for Personal Growth</title>
+      <link>http://localhost:1313/articles/lifestyle3/</link>
+      <pubDate>Wed, 02 Apr 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/lifestyle3/</guid>
+      <description>&lt;p&gt;Journaling is a powerful tool for self-reflection and personal growth. Whether you&amp;rsquo;re looking to understand your emotions, track progress, or gain clarity, writing regularly can provide valuable insights into your life.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-journaling-helps-with-personal-growth&#34;&gt;Why Journaling Helps with Personal Growth&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

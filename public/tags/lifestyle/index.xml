@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lifestyle on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/lifestyle/</link>
+    <description>Recent content in Lifestyle on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Apr 2025 14:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Importance of Sleep for a Healthy Lifestyle</title>
+      <link>http://localhost:1313/articles/healthylifestyle/</link>
+      <pubDate>Tue, 01 Apr 2025 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/healthylifestyle/</guid>
+      <description>&lt;p&gt;Good sleep is one of the pillars of health and well-being. While we often focus on diet and exercise, sleep is just as crucial for physical and mental health. Here&amp;rsquo;s why sleep should be a priority in your daily routine.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-sleep-is-essential&#34;&gt;Why Sleep is Essential&lt;/h2&gt;&#xA;&lt;p&gt;When you sleep, your body performs essential functions like cell repair, memory consolidation, and hormone regulation. Poor sleep can increase the risk of heart disease, obesity, diabetes, and even mental health disorders.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

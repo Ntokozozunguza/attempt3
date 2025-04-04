@@ -6,8 +6,15 @@
     <description>Recent content in Home on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 03 Apr 2025 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 04 Apr 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-our-website&#34;&gt;Welcome to Our Website!&lt;/h2&gt;&#xA;&lt;p&gt;We are passionate about delivering high-quality content on &lt;strong&gt;technology, health, and more&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Our goal is to provide &lt;strong&gt;insightful, engaging, and informative articles&lt;/strong&gt; to keep you updated.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stay connected &amp;amp; keep exploring!&lt;/strong&gt; 🚀&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Rise of 5G and its Impact on Everyday Life</title>
       <link>http://localhost:1313/articles/tech3/</link>
@@ -41,6 +48,13 @@
       <link>http://localhost:1313/articles/health2/</link>
       <pubDate>Tue, 01 Apr 2025 09:00:00 +0000</pubDate>
       <guid>http://localhost:1313/articles/health2/</guid>
+      <description>&lt;p&gt;Exercise is not only essential for physical health but plays a crucial role in mental wellbeing. Regular physical activity releases endorphins and reduces stress, anxiety, and depression. Here&amp;rsquo;s how staying active can improve your mood and mental health.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-science-behind-exercise-and-mental-health&#34;&gt;The Science Behind Exercise and Mental Health&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>The Role of Exercise in Mental Health</title>
+      <link>http://localhost:1313/articles/health3/</link>
+      <pubDate>Tue, 01 Apr 2025 09:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/health3/</guid>
       <description>&lt;p&gt;Exercise is not only essential for physical health but plays a crucial role in mental wellbeing. Regular physical activity releases endorphins and reduces stress, anxiety, and depression. Here&amp;rsquo;s how staying active can improve your mood and mental health.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-science-behind-exercise-and-mental-health&#34;&gt;The Science Behind Exercise and Mental Health&lt;/h2&gt;</description>
     </item>
     <item>
